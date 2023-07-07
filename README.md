@@ -6,4 +6,4 @@ script.py = Retrieves the 151 pokémons from the first generation
 script_one.py = Retrieves 1 selected pokémon (example: id = 6 Charizard)
 
 Look the official API, and update Object Poke with needed data.
-My Charizard data: data/data_one.json
+My Charizard data: data/onedata.json
